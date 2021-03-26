@@ -1,4 +1,5 @@
-<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremaravilha&layout=compact" />
+
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremaravilha&layout=compact" />  
 <img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=andremaravilha&show_icons=true&count_private=true" />
 
 ## Hi there 👋, my name is André
