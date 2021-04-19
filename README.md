@@ -18,5 +18,3 @@ I currently work as a lecturer at Centro Federal de Educação Tecnológica de M
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 
-### Support
-[<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="126" alt="andremaravilha" />](https://www.buymeacoffee.com/andremaravilha)
