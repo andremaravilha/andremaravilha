@@ -4,7 +4,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andremaravilha&show_icons=true&count_private=true)  
 
 ### About me
-I currently work as a lecturer at Centro Federal de Educação Tecnológica de Minas Gerais ([CEFET-MG](https://www.cefetmg.br/), Brazil), where I teach computer programming, databases and web application development. I'm interested in subjects as operations research, combinatorial optimization, heuristics and metaheuristics, and computational intelligence.
+Currently I am an Assistant Professor at Centro Federal de Educação Tecnológica de Minas Gerais ([CEFET-MG](https://www.cefetmg.br/), Brazil), where I teach the subjects of Operations Research, Computer Programming, and Database Systems. I'm interested in subjects as combinatorial optimization, heuristics and metaheuristics, and computational intelligence.
 
 ### Skills
 <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/></a> 
