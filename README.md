@@ -1,7 +1,4 @@
 ## Hi there 👋, my name is André
-![Profile views](https://gpvc.arturio.dev/andremaravilha)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremaravilha) &nbsp; 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andremaravilha&show_icons=true&count_private=true)  
 
 ### About me
 Currently I am an Assistant Professor at Centro Federal de Educação Tecnológica de Minas Gerais ([CEFET-MG](https://www.cefetmg.br/), Brazil), where I teach the subjects of Operations Research, Computer Programming, and Database Systems. I'm interested in subjects as combinatorial optimization, heuristics and metaheuristics, and computational intelligence.
