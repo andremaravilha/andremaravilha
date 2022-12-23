@@ -15,5 +15,4 @@ I am an Assistant Professor at Centro Federal de Educação Tecnológica de Mina
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andremaravilha&show_icons=true&theme=default) 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andremaravilha&hide=html,postscript&layout=compact&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andremaravilha&show_icons=true&theme=default)
